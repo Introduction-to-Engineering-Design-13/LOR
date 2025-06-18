@@ -4,7 +4,7 @@ gantt
     dateFormat  YYYY-MM-DD
 
     section 기획
-    아이디어 회의      :a1, 2025-03-05, 7d
+    아이디어 회의      :a1, 2025-03-12, 7d
     아이디어 확정 및 기획      :a2, after a1, 2d
 
     section 디자인
