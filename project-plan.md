@@ -10,7 +10,7 @@ gantt
     개발 방향 구체화    :a3, after d1, 7d
     
     section 개발
-    개발 환경 구축     :c1, after a3, 7d
+    개발 환경 구축        :c1, after a3, 7d
     백엔드 개발         :c2, after c1, 5d
 
     section 발표준비
