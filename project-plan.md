@@ -13,7 +13,8 @@ gantt
     개발 환경 구축        :c1, after a3, 7d
     앱 기반 디자인 제작    :c2, after c1, 7d
     기상청 api 활용, 날씨 기능 추가     : c3, after c2, 7d
-    추천방식 ai 활용으로 변경        :c4 , after c3, 7d
+    추천방식 ai 활용으로 변경        :c4 , after c5, 7d
+옷 사진 기능 추가      :c5,after c3,7d
 
     section 발표준비
     제안발표자료        :d1,    after a2,      4d
