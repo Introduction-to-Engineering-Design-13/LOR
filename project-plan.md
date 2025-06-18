@@ -1,3 +1,4 @@
+```mermaid
 gantt
     title 웹사이트 개발 일정
     dateFormat  YYYY-MM-DD
@@ -18,3 +19,4 @@ gantt
     발표자료            :d1, after c2, 5d
     최종보고서          :d2, 2025-06-04,17d
 
+```
