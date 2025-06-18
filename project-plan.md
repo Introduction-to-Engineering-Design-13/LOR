@@ -1,6 +1,7 @@
 ```mermaid
 gantt
-    title 웹사이트 개발 일정
+    title OOTD_RECOMMENDATION_APPLICATION
+
     dateFormat  YYYY-MM-DD
 
     section 기획
