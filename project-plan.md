@@ -6,7 +6,7 @@ gantt
     section 기획
     아이디어 회의      :a1, 2025-03-12, 7d
     아이디어 확정      :a2, after a1, 2d
-    개발 방향 구
+    개발 방향 구체화    :a3, after a2, 7d
 
     section 디자인
     와이어프레임 제작   :b1, after a3, 3d
