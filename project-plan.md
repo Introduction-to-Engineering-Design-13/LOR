@@ -10,7 +10,7 @@ gantt
     개발 방향 구체화    :a3, after d1, 7d
     
     section 개발
-    개발 환경 구축        :c1, after a3, 7d
+    개발 환경 구축        :c1, after e1, 7d
     앱 기반 디자인 제작    :c2, after c1, 7d
     github 환경 구축       :c6,after c2,7d
     기상청 api 활용, 날씨 기능 추가     : c3, after e2, 7d
