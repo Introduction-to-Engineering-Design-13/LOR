@@ -16,6 +16,7 @@ gantt
     기상청 api 활용, 날씨 기능 추가     : c3, after e2, 7d
     옷 사진 기능 추가      :c5,after c3,7d
     추천방식 ai 활용으로 변경        :c4 , after c5, 7d
+    앱 디자인 최종 수정     :c7, after c3,14d
 
 
     section 발표준비
